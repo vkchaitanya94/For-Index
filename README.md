@@ -1,2 +1,1 @@
-# kc-s-demo2
-this is for demo2
+This is for replacing index.html
